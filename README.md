@@ -1,5 +1,5 @@
 # SD1X-software-development-fundamentals
-Offered from [edx](https://www.edx.org/) covering PennX:SD1X Software Development Fundamentals. This repo, contains my solutions to homework's offered in the [course](https://courses.edx.org/courses/course-v1:PennX+SD1x+2T2019/course/).
+Offered from [edx](https://www.edx.org/) covering PennX:SD1X Software Development Fundamentals. This repo, contains my solutions to the homework's in the [course](https://courses.edx.org/courses/course-v1:PennX+SD1x+2T2019/course/).
 
 ### week 1: Java Basics
 
