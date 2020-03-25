@@ -17,7 +17,7 @@ Add getters and setters for these instance variables.
 
 Make sure to create a constructor that initializes your variables appropriately.
 
-##MovieDatabase
+## MovieDatabase
  
 This class has two instance variables:
 ArrayList<Movie> movieList – an ArrayList of movies
